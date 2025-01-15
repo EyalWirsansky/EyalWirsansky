@@ -10,7 +10,7 @@ As the author of "Hands-On Genetic Algorithms with Python" (Second Edition), I s
 - 🎓 Adjunct Professor at [Jacksonville University](https://www.ju.edu/dcob/), teaching AI
 - 🌟 Founder of [AI 4 Java](http://www.ai4java.com)
 - 🧠 Community leader for the [Jacksonville Java User Group](https://www.meetup.com/jacksonville-java-user-group-jaxjug/) & [Jacksoville Google Developer Group](https://gdg.community.dev/gdg-jacksonville/)
-- 🚀 Patent Holder: [UAV with ducted rotors](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11591087)
+- ⚙️ Patent Holder: [UAV with ducted rotors](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11591087)
 
 ## 📚 Hands-On Genetic Algorithms with Python (Second Edition)
 
