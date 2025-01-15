@@ -27,7 +27,7 @@ I'm the author of *"Hands-On Genetic Algorithms with Python"*, a comprehensive g
 - Real-world Python implementations that improve machine learning models.
 
 ### 🛠️ Code Examples
-You can find full working examples of the following:
+You can find full [working examples](https://github.com/PacktPublishing/Hands-On-Genetic-Algorithms-with-Python-Second-Edition?tab=readme-ov-file#hands-on-genetic-algorithms-with-python-second-edition) of the following:
 - Using the DEAP Framework
 - Combinatorial Optimization
 - Constraint Satisfaction
