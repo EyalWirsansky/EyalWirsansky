@@ -18,8 +18,8 @@ I'm the author of *"Hands-On Genetic Algorithms with Python"*, a comprehensive g
 
 ### 🔗 Useful Links
 - 📖 [Official GitHub Repository for the Book](https://github.com/PacktPublishing/Hands-On-Genetic-Algorithms-with-Python-Second-Edition)
-- 🛒 [Get the Book on Amazon](https://www.amazon.com/dp/1805123793)
 - 🎥 [Watch the Tutorial Playlist](https://www.youtube.com/playlist?list=PLT2RSfUt4goqwml-im6HvVrOZ6MH2RZOj)
+- 🛒 [Get the Book on Amazon](https://www.amazon.com/dp/1805123793)
 
 ### 🧬 What You’ll Learn
 - How to build, visualize, and optimize genetic algorithms.
