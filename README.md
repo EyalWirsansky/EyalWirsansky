@@ -9,7 +9,10 @@ As the author of "Hands-On Genetic Algorithms with Python" (Second Edition), I s
 - 📘 [My Book on Genetic Algorithms](https://www.amazon.com/dp/1805123793)
 - 🎓 Adjunct Professor at [Jacksonville University](https://www.ju.edu/dcob/), teaching AI
 - 🌟 Founder of [AI 4 Java](http://www.ai4java.com)
-- 🧠 Community leader for the [Jacksonville Java User Group](https://www.meetup.com/jacksonville-java-user-group-jaxjug/) & [Jacksoville Google Developer Group](https://gdg.community.dev/gdg-jacksonville/)
+- 🧠 Community leader for the:
+  -  [Jacksoville Google Developer Group](https://gdg.community.dev/gdg-jacksonville/)
+  -  [AI for Enterprise Virtual User Group](https://www.meetup.com/ai-for-enterprise-virtual-user-group)
+  -  [Jacksonville Java User Group](https://www.meetup.com/jacksonville-java-user-group-jaxjug/)
 - ⚙️ Patent Holder: [UAV with ducted rotors](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11591087)
 
 ## 📚 Hands-On Genetic Algorithms with Python (Second Edition)
@@ -20,6 +23,7 @@ I'm the author of *"Hands-On Genetic Algorithms with Python"*, a comprehensive g
 - 📖 [Official GitHub Repository for the Book](https://github.com/PacktPublishing/Hands-On-Genetic-Algorithms-with-Python-Second-Edition)
 - 🎥 [Watch the Tutorial Playlist](https://www.youtube.com/playlist?list=PLT2RSfUt4goqwml-im6HvVrOZ6MH2RZOj)
 - 🛒 [Get the Book on Amazon](https://www.amazon.com/dp/1805123793)
+- 🎁 [Download a Free Chapter](https://sendfox.com/eyalwir)
 
 ### 🧬 What You’ll Learn
 - How to build, visualize, and optimize genetic algorithms.
