@@ -15,6 +15,24 @@ As the author of "Hands-On Genetic Algorithms with Python" (Second Edition), I s
   -  [Jacksonville Java User Group](https://www.meetup.com/jacksonville-java-user-group-jaxjug/)
 - ⚙️ Patent Holder: [UAV with ducted rotors](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11591087)
 
+## 🎤 Recent and Upcoming Speaking Engagements
+
+I enjoy sharing my knowledge and engaging with the global developer and AI community. Here are some of my recent and upcoming talks:
+
+- **Jacksonville Python User Group (PyJax), March 2025**  
+  **Talk:** "A Journey Through NLP and Genetic Algorithms"  
+  Delving into how NLP and genetic algorithms can be used to tackle complex optimization and language-based problems.
+
+- **Global Data AI Virtual Tech Conference, January 2025**  
+  **Talk:** "Applying Genetic Algorithms to Real-World Machine Learning and Artificial Intelligence Problems"  
+  Discussed how genetic algorithms can optimize machine learning workflows and solve real-world AI challenges.
+
+- **GDG Pescara DevFest (Italy), October 2024**  
+  **Talk:** "Unlocking the Secrets of the Mystery-Word Game: A Journey Through NLP and Genetic Algorithms"  
+  Explored the application of genetic algorithms and NLP techniques in solving complex word-based puzzles.
+
+I look forward to continuing these conversations at future events!
+
 ## 📚 Hands-On Genetic Algorithms with Python (Second Edition)
 
 I'm the author of *"Hands-On Genetic Algorithms with Python"*, a comprehensive guide to applying genetic algorithms to real-world AI and machine learning problems.
