@@ -19,7 +19,7 @@ As the author of "Hands-On Genetic Algorithms with Python" (Second Edition), I s
 
 I enjoy sharing my knowledge and engaging with the global developer and AI community. Here are some of my recent and upcoming talks:
 
-- **Jacksonville Python User Group (PyJax), March 2025**  
+- **Jacksonville Python User Group (PyJax), May 2025**  
   **Talk:** "A Journey Through NLP and Genetic Algorithms"  
   Delving into how NLP and genetic algorithms can be used to tackle complex optimization and language-based problems.
 
